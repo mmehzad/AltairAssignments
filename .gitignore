@@ -1,4 +1,4 @@
 *.exe
 test*
-run.cpp
+run.*
 .vscode/
