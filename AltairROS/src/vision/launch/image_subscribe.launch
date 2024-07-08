@@ -1,0 +1,5 @@
+<launch>
+
+<node name="image_subscribe" pkg="vision" type="image_subscribe.py" output="screen"/>
+
+</launch>

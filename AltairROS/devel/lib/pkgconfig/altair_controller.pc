@@ -1,0 +1,8 @@
+prefix=/home/euphyzr/AltairROS/devel
+
+Name: altair_controller
+Description: Description of altair_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

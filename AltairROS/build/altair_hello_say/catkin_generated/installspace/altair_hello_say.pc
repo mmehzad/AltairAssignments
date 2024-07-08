@@ -1,0 +1,8 @@
+prefix=/home/euphyzr/AltairROS/install
+
+Name: altair_hello_say
+Description: Description of altair_hello_say
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

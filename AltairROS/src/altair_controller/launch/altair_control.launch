@@ -1,0 +1,5 @@
+<launch>
+
+<node name="altair_control" pkg="altair_controller" type="altair_control.py" output="screen"/>
+
+</launch>

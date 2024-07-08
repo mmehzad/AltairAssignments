@@ -1,0 +1,5 @@
+<launch>
+
+<node name="hello_hear" pkg="altair_hello_say" type="hello_hear.py" output="screen"/>
+
+</launch>
